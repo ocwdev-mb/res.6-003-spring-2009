@@ -1,0 +1,21 @@
+leftnav:
+- identifier: fabe9528-ce14-5a10-ee30-dd48227318ee
+  name: Front-End Matter
+  pageRef: /pages/front-end-matter
+  weight: 10
+- identifier: 1d533ead-90b1-50e4-4c58-80d43b5bf142
+  name: Part I
+  pageRef: /pages/part-i
+  weight: 20
+- identifier: ae8c689a-272b-773e-55dc-102ad16a0390
+  name: Part II
+  pageRef: /pages/part-ii
+  weight: 30
+- identifier: 9c7251fe-89b1-1564-8b0e-7487e6d13a70
+  name: Part III
+  pageRef: /pages/part-iii
+  weight: 40
+- identifier: 33a5d91a-affd-85a4-f422-354366c45231
+  name: Solutions Manual
+  pageRef: /pages/solutions-manual
+  weight: 50
